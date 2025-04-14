@@ -16,3 +16,4 @@ const store = configureStore({
 });
 
 module.exports = store;
+

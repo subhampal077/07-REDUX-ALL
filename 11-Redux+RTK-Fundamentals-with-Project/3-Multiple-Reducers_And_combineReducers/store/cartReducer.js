@@ -7,7 +7,6 @@ const CART_ITEM_INCREASE_QUANTITY = "cart/increaseQuantity";
 const CART_ITEM_DECREASE_QUANTITY = "cart/decreaseQuantity";
 
 // Action creators
-
 export function addCartItem(productId) {
   return {
     type: CART_ADD_ITEM,

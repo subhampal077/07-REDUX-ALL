@@ -32,7 +32,6 @@ const slice = createSlice({
     error: "",
   },
   reducers: {
-    
     // fetchCartItems(state) {
     //   state.loading = true;
     // },
